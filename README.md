@@ -9,17 +9,17 @@
 
 ## Este proyecto automatiza la extracción de datos financieros, realiza cálculos estadísticos y envía un reporte por correo electrónico.
 
-### Funcionalidades
+## Funcionalidades
 * Extracción de datos en tiempo real con `yfinance`.
 * Análisis de cotizaciones (Máxima, Mínima y Media) con `pandas`.
 * Envío automatizado de reportes vía Gmail usando `pyautogui`.
 
-### 🛠️ Tecnologías
+## 🛠️ Tecnologías
 * Python 3.12+
 * Pandas / YFinance
 * PyAutoGUI / Pyperclip
 
-### ¿Como usarlo?
+## ¿Como usarlo?
 Para ejecutar este proyecto en tu computadora, sigue estos pasos:
 
 **Clonar el repositorio o descargar los archivos:**
