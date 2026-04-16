@@ -28,7 +28,7 @@ Para ejecutar este proyecto en tu computadora, sigue estos pasos:
 **Instalar las librerías necesarias:**
    Abre una terminal en la carpeta del proyecto y ejecuta: pip install -r requirements.txt
 
-##Nota importante
+## Nota importante
 Este script utiliza PyAutoGUI para automatizar clics en el navegador. Las coordenadas de los clics en el archivo main.py están configuradas para una resolución de pantalla específica. Es posible que necesites ajustar los valores en pyautogui.click(x, y) para que coincidan con tu monitor y la posición del botón "Redactar" en Gmail.
 
 ## 💡 Lo que aprendí
@@ -42,7 +42,7 @@ Desarrollé este script para practicar la integración de APIs financieras y la 
 <a name="english"></a>
 ## 🇺🇸 Description in English
 
-📈 Financial Analysis Automation
+## 📈 Financial Analysis Automation
 This project automates financial data extraction, performs statistical calculations, and sends a report via email.
 
 Features
@@ -52,14 +52,14 @@ Stock quote analysis (High, Low, and Average) with pandas.
 
 Automated report delivery via Gmail using pyautogui.
 
-🛠️ Technologies
+## 🛠️ Technologies
 Python 3.12+
 
 Pandas / YFinance
 
 PyAutoGUI / Pyperclip
 
-How to use it?
+## How to use it?
 To run this project on your computer, follow these steps:
 
 Clone the repository or download the files:
@@ -68,10 +68,10 @@ If you have Git: git clone https://github.com/YourUser/stock-analysis.git
 Install the necessary libraries:
 Open a terminal in the project folder and run: pip install -r requirements.txt
 
-⚠️ Important Note
+## ⚠️ Important Note
 This script uses PyAutoGUI to automate browser clicks. The click coordinates in the main.py file are configured for a specific screen resolution. You may need to adjust the values in pyautogui.click(x, y) to match your monitor and the position of the "Compose" button in Gmail.
 
-💡 What I learned
+## 💡 What I learned
 I developed this script to practice financial API integration and graphical user interface (GUI) automation, improving efficiency in data reporting.
 
 
